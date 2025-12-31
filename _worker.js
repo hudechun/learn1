@@ -5,11 +5,7 @@ let 订阅路径 = "订阅路径";
 let 伪装网页;
 let 验证UUID;
 let 优选链接 = "https://raw.githubusercontent.com/ImLTHQ/edgetunnel/main/output.txt";
-let 优选列表 = [104.16.143.10,
-104.17.10.13,
-104.17.219.202,
-104.17.235.138,
-104.18.19.185];
+let 优选列表 = [];
 let NAT64前缀 = "2a02:898:146:64::";
 let DOH地址 = "1.1.1.1";
 let 反代IP = "proxyip.cmliussss.net";
