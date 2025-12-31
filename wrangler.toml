@@ -1,9 +1,9 @@
-name = "learn1-478799018"
+name = "learn1"
 compatibility_date = "2025-12-31"
 main = "_worker.js"
 
 [env.vars]
-SUB_PATH = "https://learn1.478799018.workers.dev/hello"
+SUB_PATH = "hello"
 TXT_URL = "https://raw.githubusercontent.com/ImLTHQ/edgetunnel/main/output.txt"
 NAT64 = "2a02:898:146:64::"
 DOH = "1.1.1.1"
